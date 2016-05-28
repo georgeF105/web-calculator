@@ -1,0 +1,19 @@
+#calc {
+  margin: 0 auto;
+  
+}
+#buttons{
+  margin: 0 auto;
+  width: 210px;
+}
+button {
+  height: 45px;
+  margin: 2px;
+  width: 45px;
+}
+
+#input {
+  border: 1px solid black;
+  min-height: 25px;
+  text-align: right;
+}
