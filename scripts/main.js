@@ -20,7 +20,7 @@ function calcInput(param) {
     output(working);
     break;
     case 'ANS':
-
+    
     break;
     case '=':
     working = eval(working);
